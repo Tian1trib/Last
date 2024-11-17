@@ -1,0 +1,89 @@
+body{
+  background-image: url('matatag.jpg');
+  background-size:100% 100%;
+}
+
+.sashsOne{
+  text-shadow:1px 1px 10px black;
+  font-size: 4em;
+}
+
+.sashsTwo{
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.dreamOne{
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.logoContainer{
+  display:flex;
+  margin-top: 5rem;
+}
+
+.logoBox{
+  border: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:0.5rem;
+  justify-content: center;
+}
+
+.logos{
+  border:solid;
+  height:5rem;
+  width:5rem;
+  border-radius: 50%;
+}
+
+.logoText{
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+  align-items:  start;
+}
+
+.logoOne{
+  background-image: url('Freedom.png');
+  background-size:100% 100%;
+  overflow: hidden;
+}
+
+.logoTwo{
+  background-image: url('Logo.jpg');
+  background-size:100% 100%;
+  overflow: hidden;
+}
+
+.sashsTwo{
+  background: linear-gradient(to bottom right, #FAA6FF, #E90000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logoThree{
+  background-image: url('DEPED.png');
+  background-size:100% 100%;
+  overflow: hidden;
+}
+
+.socialOne{
+  background-image: url('Face.png');
+  background-size:100% 100%;
+  overflow: hidden;
+}
+
+.socialTwo{
+  background-image: url('Twi.avif');
+  background-size:100% 100%;
+  overflow: hidden;
+}
+
+.socialThree{
+  background-image: url('You.jpg');
+  background-size:100% 100%;
+  overflow: hidden;
+}
